@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aditya-sharma1409
-- 👀 I’m interested in  Image Processing Artificial Intelligence and Machine Learning
+- 👀 I’m interested in  Image Processing, Artificial Intelligence and Machine Learning
 - 🌱 I’m currently pursuing an undergraduate degree in Electronics and Communication Engineering
 - 📫 Contact : adiabhi1110@gmail.com
 
