@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @aditya-sharma1409
 - 👀 I’m interested in Machine Learning, Data Science and Computer Vision
-- 🌱 I’m currently pursuing an undergraduate degree at PES University with a major in Electronics & Communication Engineering and a minor in Computer Science
 - 📫 Contact : adiabhi1110@gmail.com | [LinkedIn](https://www.linkedin.com/in/aditya-sharma-9a6827194/)
 
 
